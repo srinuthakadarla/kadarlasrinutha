@@ -1,0 +1,33 @@
+body{color:orange;
+
+  background-image:url('HTML.jpeg') ;
+
+ 
+
+}
+
+h1{
+
+  text-align: center;
+
+  text-decoration: blue;
+
+  font-size: 4.2rem;
+
+  text-transform: uppercase;
+
+  text-shadow:0 0 102px #0fa;
+
+}
+
+.form{
+
+  text-align: "left"; 
+
+  text-transform: capitalize;
+
+  font-weight: 400;
+
+  font-style: italic;
+
+}
